@@ -21,8 +21,9 @@ Using the Amazon AWS you will start the conversation with the Lex, and will anse
 # Outcome
 First of all we set the boot with the questions for the user:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75823252/115163621-f607ac00-a05e-11eb-8b2d-b45963534106.gif)
-After that we set the lambda function, but unfortunately  we are having some error that the team wasn't able to fix.
-<img width="1539" alt="Screen Shot 2021-04-18 at 4 22 01 PM" src="https://user-images.githubusercontent.com/75823252/115165419-b5aa2d00-a062-11eb-953c-261651d9064d.png">
+After that we set the lambda function, we can see the output, showing the best portfolio for the user:
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75823252/115481413-6cdcaa80-a201-11eb-84ba-2833a96eabed.gif)
+
 
 
 ## Contributor
